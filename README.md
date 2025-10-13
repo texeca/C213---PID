@@ -1,4 +1,4 @@
-# Projeto de Controle PID: Identificação e Sintonia (GUI Python)
+# Projeto de Controle PID
 
 Este projeto implementa uma **Interface Gráfica do Usuário (GUI)** em Python (Tkinter) para a identificação de sistemas de Primeira Ordem com Tempo Morto (**FOPDT**) e a sintonia de controladores PID utilizando métodos clássicos (**CHR** e **Cohen-Coon**).
 
