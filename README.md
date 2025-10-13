@@ -15,7 +15,7 @@ O modelo FOPDT é obtido a partir da curva de reação (resposta ao degrau) carr
 | Parâmetro | Método | Característica |
 | :--- | :--- | :--- |
 | **FOPDT** | **Smith (Método dos Dois Pontos)** | Estima o Ganho ($K$), a Constante de Tempo ($\tau$) e o Tempo Morto ($\theta$) utilizando os tempos em $28.3\%$ e $63.2\%$ da variação total da saída ($\Delta y$). |
-| **Atraso ($\theta$)** | **Aproximação de Padé** | O atraso é modelado com a **Aproximação de Padé** (ordem N=1 ou N=2) para permitir a simulação em malha fechada. |
+| **Atraso ($\theta$)** | **Aproximação de Padé** | O atraso é modelado com a **Aproximação de Padé**  para permitir a simulação em malha fechada. |
 
 ### 2\. Sintonia do Controlador PID (Malha Fechada)
 
